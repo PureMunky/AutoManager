@@ -4,7 +4,10 @@ var AutoManager = (function () {
         sayings = [
             'How are you coming on that thing I asked about about earlier?',
             'I\'m going to need all hands on deck for this one.',
-            'I know we\'re all very busy but we\'re going to have to find some wiggle room for this.'
+            'I know we\'re all very busy but we\'re going to have to find some wiggle room for this.',
+            'Yea, I\'m gonna need you to come in on Saturday.',
+            'You\'re just adding a new field to the form, it shouldn\'t impact the deadline.',
+            'I really like that but what if we didn\'t do it that way.'
         ];
 
     // Assesses the situation and provides guidance.
