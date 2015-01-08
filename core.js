@@ -7,7 +7,8 @@ var AutoManager = (function () {
             'I know we\'re all very busy but we\'re going to have to find some wiggle room for this.',
             'Yea, I\'m gonna need you to come in on Saturday.',
             'You\'re just adding a new field to the form, it shouldn\'t impact the deadline.',
-            'I really like that but what if we didn\'t do it that way.'
+            'I really like what you\'ve done but what if we didn\'t do it that way.',
+            'We\'re going to have to fast track this project.'
         ];
 
     // Assesses the situation and provides guidance.
