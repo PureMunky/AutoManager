@@ -1,8 +1,10 @@
 var AutoManager = (function () {
     var that = {},
+        // The bank of wisdom.
         sayings = [
             'How are you coming on that thing I asked about about earlier?',
-            'I\'m going to need all hands on deck for this one.'
+            'I\'m going to need all hands on deck for this one.',
+            'I know we\'re all very busy but we\'re going to have to find some wiggle room for this.'
         ];
 
     // Assesses the situation and provides guidance.
